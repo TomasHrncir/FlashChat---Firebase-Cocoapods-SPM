@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>663154301312-u44e4fvitmkuvbehaiqjekcuim7hn336.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.663154301312-u44e4fvitmkuvbehaiqjekcuim7hn336</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDbVMhM96mBzAuZNYxjNJSN9o8cEfvkddI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>663154301312</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.tomashrncirFlashChat</string>
+	<key>PROJECT_ID</key>
+	<string>flash-chat-b319b</string>
+	<key>STORAGE_BUCKET</key>
+	<string>flash-chat-b319b.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:663154301312:ios:aac7c2d70a69bf1ad70965</string>
+</dict>
+</plist>
